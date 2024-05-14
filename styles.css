@@ -8,11 +8,12 @@ h1, h2, p {
 }
 
 .bod {
-  width: 80%;
+  width: 100;
   background-color: light grey;
   margin-left: auto;
   margin-right: auto;
 }
 hr {
-  height: 20px;
+  height: 20;
+  width: 80;
 }
