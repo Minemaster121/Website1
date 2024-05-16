@@ -10,7 +10,7 @@ h1, h2, p {
 
 .bod {
   width: 100;
-  background-color: d3deed;
+  background-color: #d3deed;
   margin-left: auto;
   margin-right: auto;
 }
@@ -23,7 +23,7 @@ hr {
 }
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #333;
+  background-color: #000000;
   overflow: hidden;
 }
 
