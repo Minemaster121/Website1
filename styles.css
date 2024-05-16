@@ -1,5 +1,6 @@
 body {
   background-image: url(https://cdn.dribbble.com/users/211312/screenshots/5571571/media/259d5fb0420af92e0add87fc479e4437.jpg?resize=400x300&vertical=center);
+  background-attachment: fixed
 }
 
 h1, h2, p {
